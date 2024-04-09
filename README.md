@@ -24,3 +24,4 @@ link to the deployed site:  https://ayotheman12.github.io/challege-3/
 ![image](https://github.com/Ayotheman12/challege-3/blob/master/Assets/screenshot.png)
 
 # quiz-112
+# 02-QUIZ-TIME-02
